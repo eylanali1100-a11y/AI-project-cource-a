@@ -1,0 +1,11 @@
+In this project, the following Python
+:libraries were used
+pandas
+numpy
+scikit-learn
+matplotlib.pyplot
+seaborn
+os
+kagglehub
+
+
